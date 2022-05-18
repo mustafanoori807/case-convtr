@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    console.log("I am learning Java");
+    console.log("I am learning JavaScript");
+    console.log("I am learning C++");
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8174#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 22 Feb 2022 11:29:56 UTC
+record: -1
